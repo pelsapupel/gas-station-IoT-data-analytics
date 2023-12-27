@@ -1,6 +1,4 @@
-# Pertamina-data-pipeline (SQL)
-
-# Pertamina Gas Station Data Analytics Project
+# Pertamina Gas Station Data Analytics Project (MySQL)
 ## Overview
 Welcome to the My Pertamina Gas Station Data Analytics Project! This project focuses on analyzing and managing data related to transactions, stock, equipment, and shipping at Pertamina gas stations. As a data analyst, I have been actively involved in the development and production phases of this project, utilizing MySQL for data manipulation during development and Python along with shell scripts for automating the creation of the datamart in the production phase. In this SQL project, I use data from PT. Pertamina Patra Niaga (Commercial & Trading) and colaborated with more than 100 people. Keep in mind that I will only show dataset that complies with Indonesian data privacy law and masked any private or any crucial data, as it is not necessary for the porfolio.
 
