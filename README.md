@@ -43,18 +43,11 @@ Scheduler: crontab
 1 0 * * * /home/domain/engineer_user/
 
 ## How to Use
-**Prerequisites**
-Ensure you have MySQL installed for the development phase.
-Install Python for the production phase, along with necessary libraries specified in requirements.txt.
-**Development**
-Execute the SQL scripts in the specified order to manipulate and analyze data in the development phase.
-**Production**
-Configure the MySQL connection details.
-Run the query_part_today_1.sh script to automate the datamart creation process.
-Schedule the create_query_part1.py script for regular updates.
-**Conclusion**
-This data analytics project for Pertamina Gas Stations aims to provide valuable insights into transactions, stock, equipment, and shipping, enabling informed decision-making. The combination of MySQL for development and Python/shell scripts for production automation ensures a robust and scalable solution for ongoing data analysis. Feel free to explore and adapt the scripts to suit your specific analytics needs!
+**Prerequisites** • Ensure you have MySQL installed for the development phase along with the necessary VPN configuration and IP address information. Install Python for the production phase, along with necessary libraries specified in requirements.txt.
+**Development** • Execute the SQL scripts in the specified order to manipulate and analyze data in the development phase.
+**Production** • Configure the MySQL connection details. Run the query_part_today_1.sh script to automate the datamart creation process. Schedule the create_query_part1.py script for regular updates.
+**Conclusion** • This data analytics project for Pertamina Gas Stations aims to provide valuable insights into transactions, stock, equipment, and shipping, enabling informed decision-making. The combination of MySQL for development and Python/shell scripts for production automation ensures a robust and scalable solution for ongoing data analysis. Feel free to explore and adapt the scripts to suit your specific analytics needs!
 
 *Note that this portfolio is a work on progress and you could ask me anytime by contacting:*
-email: davelzhaf@gmail.com
-phone: (+62)8111903055
+- email: davelzhaf@gmail.com
+- phone: (+62)8111903055
