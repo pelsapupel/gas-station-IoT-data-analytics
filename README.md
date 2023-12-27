@@ -4,4 +4,6 @@ In this SQL project, using data from PT.Pertamina Commercial & Trading I've done
 
 I used MySQL Server and worked with a the Database Administrator to model my data and enabling me to move forward with the analysis.
 
-### Note that this is a work on progress but some of the part shows the level of my SQL comprehension
+### Note that this portfolio is a work on progress and you could ask me anytime by contacting:
+
+email: davelzhaf@gmail.com
